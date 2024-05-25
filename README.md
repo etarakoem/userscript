@@ -1,14 +1,12 @@
 # Samuel useful userscript
 Install [violent monkey extensions](https://violentmonkey.github.io/#installation) for your browser first.
 
-Click on the extension tab 
-
+## Click on the extension tab 
 <img width="149" alt="Screen Shot 2024-05-25 at 2 46 04 PM" src="https://github.com/etarakoem/userscript/assets/50989367/108fc783-fe17-4635-aa87-83947cec3780">
 
 
-Click on the pin icon to pin Violentmonkey to the extensions bar
-
-<img width="311" alt="Screen Shot 2024-05-25 at 2 46 16 PM" src="https://github.com/etarakoem/userscript/assets/50989367/363beaf2-4142-4633-8d94-d5ccd232f216">
+## Click on the pin icon to pin Violentmonkey to the extensions bar
+	<img width="311" alt="Screen Shot 2024-05-25 at 2 46 16 PM" src="https://github.com/etarakoem/userscript/assets/50989367/363beaf2-4142-4633-8d94-d5ccd232f216">
 
 
 Go to any of my userscript link below and copy a raw link
